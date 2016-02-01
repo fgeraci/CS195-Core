@@ -12,7 +12,7 @@ sysinfo.txt
 # ========== #
 # Build Data #
 # ========== #
-[Aa]ssets/[Dd]ata/
+[Aa]ssets/[Dd]ata/*
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
