@@ -1,0 +1,94 @@
+#Score_Distance
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+Robber unlocks the manager door.
+Robber unlocks the teller door.
+Robber presses the teller button.
+Robber presses the manager button.
+Robber opens the vault door.
+Robber picks up money from a vault cart.
+Robber leaves.
+%
+Robber presses the manager button.
+Robber leaves.
+%
+Robber leaves.
+%
+#Score_SkinnyPipe
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+Robber unlocks the manager door.
+Robber unlocks the teller door.
+Robber presses the teller button.
+Robber presses the manager button.
+Robber opens the vault door.
+Robber picks up money from a vault cart.
+Robber leaves.
+%
+Robber presses the manager button.
+Robber leaves.
+%
+Robber drops the gun. (Negligent)
+Robber leaves.
+%
+#Score_TrapNodes
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+Robber presses the manager button.
+Robber incapacitates Guard. (Violent)
+Robber drops the gun. (Negligent)
+Robber unlocks the manager door.
+Robber unlocks the teller door.
+Teller picks up the gun. (Brave)
+Robber presses the teller button.
+Robber opens the vault door.
+Robber picks up money from a vault cart.
+Robber leaves.
+%
+Robber incapacitates Guard. (Violent)
+Robber drops the gun. (Negligent)
+Robber takes keys from incapacitated Guard.
+Robber unlocks the teller door.
+Teller picks up the gun. (Brave)
+Robber presses the manager button.
+Robber leaves.
+%
+Robber drops the gun. (Negligent)
+Robber presses the manager button.
+Robber leaves.
+%
+#Score_HighPagerank
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+Robber unlocks the manager door.
+Robber presses the manager button.
+Robber leaves.
+%
+Robber presses the manager button.
+Robber leaves.
+%
+Robber leaves.
+%
+#Score_LowPagerank
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+Robber unlocks the teller door.
+Robber presses the teller button.
+%
+Robber presses the manager button.
+%
+Robber leaves.
+%
+#Score_HighInvPagerank
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+%
+Robber presses the manager button.
+%
+Robber incapacitates Guard. (Violent)
+%
+#Score_LowInvPagerank
+Robber coerces Guard to hand over the keys at gunpoint. (Nonviolent)
+Robber unlocks the manager door.
+Robber unlocks the teller door.
+Robber leaves.
+%
+Robber leaves.
+%
+Robber presses the manager button.
+Robber leaves.
+%
