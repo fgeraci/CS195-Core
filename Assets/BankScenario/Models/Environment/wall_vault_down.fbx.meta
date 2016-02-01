@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 16d2d659670226c42a72b134fa8dc8c1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: GRP_lockBar1
+    100002: GRP_lockBar2
+    100004: GRP_lockBar3
+    100006: lockBar1
+    100008: lockBar2
+    100010: lockBar3
+    100012: vault_door_down
+    100014: vault_door_up
+    100016: vault_wheel
+    100018: vault_wheel_handle1
+    100020: vault_wheel_handle2
+    100022: vault_wheel_handle3
+    100024: vault_wheel_handle4
+    100026: //RootNode
+    100028: wall_vault_up
+    100030: wall_vault_up_lock1
+    100032: wall_vault_up_lock2
+    100034: wall_vault_up_lock3
+    400000: GRP_lockBar1
+    400002: GRP_lockBar2
+    400004: GRP_lockBar3
+    400006: lockBar1
+    400008: lockBar2
+    400010: lockBar3
+    400012: vault_door_down
+    400014: vault_door_up
+    400016: vault_wheel
+    400018: vault_wheel_handle1
+    400020: vault_wheel_handle2
+    400022: vault_wheel_handle3
+    400024: vault_wheel_handle4
+    400026: //RootNode
+    400028: wall_vault_up
+    400030: wall_vault_up_lock1
+    400032: wall_vault_up_lock2
+    400034: wall_vault_up_lock3
+    2300000: lockBar1
+    2300002: lockBar2
+    2300004: lockBar3
+    2300006: vault_door_down
+    2300008: vault_door_up
+    2300010: vault_wheel
+    2300012: vault_wheel_handle1
+    2300014: vault_wheel_handle2
+    2300016: vault_wheel_handle3
+    2300018: vault_wheel_handle4
+    2300020: //RootNode
+    2300022: wall_vault_up
+    2300024: wall_vault_up_lock1
+    2300026: wall_vault_up_lock2
+    2300028: wall_vault_up_lock3
+    3300000: lockBar1
+    3300002: lockBar2
+    3300004: lockBar3
+    3300006: vault_door_down
+    3300008: vault_door_up
+    3300010: vault_wheel
+    3300012: vault_wheel_handle1
+    3300014: vault_wheel_handle2
+    3300016: vault_wheel_handle3
+    3300018: vault_wheel_handle4
+    3300020: //RootNode
+    3300022: wall_vault_up
+    3300024: wall_vault_up_lock1
+    3300026: wall_vault_up_lock2
+    3300028: wall_vault_up_lock3
+    4300000: wall_vault_down
+    4300002: wall_vault_up
+    4300004: wall_vault_up_lock1
+    4300006: wall_vault_up_lock2
+    4300008: wall_vault_up_lock3
+    4300010: vault_door_up
+    4300012: lockBar1
+    4300014: lockBar2
+    4300016: lockBar3
+    4300018: vault_wheel
+    4300020: vault_wheel_handle1
+    4300022: vault_wheel_handle2
+    4300024: vault_wheel_handle3
+    4300026: vault_wheel_handle4
+    4300028: vault_door_down
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
