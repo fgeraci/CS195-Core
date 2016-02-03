@@ -617,8 +617,8 @@ public class HighlightableObject : MonoBehaviour
         CacheRenderers(smr);
 
 #if !UNITY_FLASH
-        ClothRenderer[] cr = GetComponentsInChildren<ClothRenderer>();
-        CacheRenderers(cr);
+        // ClothRenderer[] cr = GetComponentsInChildren<ClothRenderer>();
+        // CacheRenderers(cr);
 #endif
 
         currentState = false;
